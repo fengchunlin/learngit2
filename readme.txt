@@ -3,4 +3,6 @@ Git is free software distributed under the GPL.
 test git diff --cached
 
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simple.
+
